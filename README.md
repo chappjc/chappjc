@@ -4,7 +4,8 @@ I'm a software engineer, technical leader, and backend systems architect with a 
 
 > 🔧 I build backends, protocols, and **teams**.
 
----
+<details>
+  <summary>More about my work and background...</summary>
 
 ### Highlighted Work
 
@@ -50,7 +51,7 @@ You can find more of my work across:
 
 📄 [Resume available here](https://github.com/chappjc/chappjc/raw/main/Jonathan_Chappelow_Resume_2025.pdf)
 
----
+</details>
 
 ### 🤝 Let’s Connect
 
