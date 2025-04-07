@@ -1,6 +1,4 @@
-# Hi, I’m Jonathan Chappelow
-
-I'm a software engineer, technical leader, and backend systems architect with a focus on distributed systems, applied cryptography, and performance-critical infrastructure. Rooted in computational imaging and scientific research. I thrive on designing elegant, scalable systems—especially where decentralization, systems and protocol design, R&D, and strong typing intersect.
+ℹ️ Hi, I’m Jonathan Chappelow! I'm a software engineer, technical leader, and backend systems architect with a focus on distributed systems, applied cryptography, and performance-critical infrastructure. Rooted in computational imaging and scientific research. I thrive on designing elegant, scalable systems—especially where decentralization, systems and protocol design, R&D, and strong typing intersect.
 
 > 🔧 I build backends, protocols, and **teams**.
 
@@ -53,7 +51,8 @@ You can find more of my work across:
 
 </details>
 
-### 🤝 Let’s Connect
+<details>
+  <summary>Let's connect...</summary>
 
 Open to discussions around:
 
@@ -68,3 +67,5 @@ Open to discussions around:
 🐦 [@chappjc](https://x.com/chappjc)
 
 💼 [LinkedIn](https://www.linkedin.com/in/jonathan-chappelow)
+
+</details>
