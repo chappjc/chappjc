@@ -7,6 +7,8 @@
 
 ### Highlighted Work
 
+#### Broadcom (Principal Software Engineer)
+
 #### 🗃️ [kwil-db](https://github.com/jchappelow/kwil-db) (Lead Developer, Head of Engineering @ [Kwil](https://kwil.com))
 
 A distributed database for web3 using blockchain concepts for authorization and replication, with a PostgreSQL-backed datastore.
