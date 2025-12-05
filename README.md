@@ -56,12 +56,6 @@ You can find more of my work across:
 <details>
   <summary>Let's connect...</summary>
 
-Open to discussions around:
-
-- Engineering leadership roles
-- Deep-tech backend projects
-- Open-source initiatives
-
 📍 Austin, TX
 
 📫 chappjc@protonmail.com
